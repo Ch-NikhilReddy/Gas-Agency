@@ -2,7 +2,7 @@
 
 > MERN-based gas booking system with JWT auth, role-based access, and automated notifications.
 
-**Live Demo:** `Add your Vercel/Render link here` | **GitHub:** `github.com/Ch-NikhilReddy/Gas-Agency`
+**Live Demo:** `https://gas-agency-ten.vercel.app/` | **GitHub:** `github.com/Ch-NikhilReddy/Gas-Agency`
 
 ![MERN](https://img.shields.io/badge/Stack-MERN%20%7C%20JWT%20%7C%20RBAC-blue)
 ![Backend](https://img.shields.io/badge/Backend-Node.js%20%7C%20Express-green)
